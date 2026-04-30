@@ -125,10 +125,9 @@
 <p align="center">
   <img 
     height="170"
-    src="https://streak-stats.demolab.com?user=guilhermedamasio&theme=tokyonight&locale=pt-br&cache_seconds=86400" 
+    src="https://github-readme-streak-stats.herokuapp.com?user=guilhermedamasio&theme=tokyonight" 
   />
 </p>
-
 ## 🔥 Atividade
 
 <p align="center">
