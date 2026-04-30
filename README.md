@@ -142,10 +142,10 @@
 ## 📫 Contato
 
 <p align="center">
-  <a href="[guilhermedamasio09](https://www.linkedin.com/in/guilhermedamasio09/)">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <a href="https://www.linkedin.com/in/guilhermedamasio09/">
+    <img src="https://img.shields.io/badge/LinkedIn-Guilherme%20Damasio-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="mailto:guilhermedamasiomendes@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <a href="mailto:guilhermedamasiomendes@gmail.com?subject=Contato%20profissional&body=Olá%20Guilherme,%20vi%20seu%20GitHub%20e%20gostaria%20de%20falar%20com%20você.">
+    <img src="https://img.shields.io/badge/Email-Contato-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
