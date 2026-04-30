@@ -112,7 +112,6 @@
 
 ## 📊 Estatísticas
 
-
 <p align="center">
   <img 
     height="170" 
@@ -127,10 +126,9 @@
 <p align="center">
   <img 
     height="170"
-    src="https://streak-stats.demolab.com?user=guilhermedamasio&theme=tokyonight&locale=pt-br" 
+    src="https://streak-stats.demolab.com?user=guilhermedamasio&theme=tokyonight&locale=pt-br&cache_seconds=86400" 
   />
 </p>
-
 
 ## 🔥 Atividade
 
