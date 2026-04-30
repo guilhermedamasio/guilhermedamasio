@@ -111,23 +111,29 @@
 ---
 ## 📊 Estatísticas
 
-<p align="center">
+<div align="center">
+
   <img 
     height="170" 
     src="https://github-readme-stats.vercel.app/api?username=guilhermedamasio&show_icons=true&theme=tokyonight&locale=pt-br" 
   />
+
   <img 
     height="170" 
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermedamasio&theme=tokyonight&layout=compact" 
   />
-</p>
 
-<p align="center">
+</div>
+
+<div align="center">
+
   <img 
     height="170"
     src="https://github-readme-streak-stats.herokuapp.com?user=guilhermedamasio&theme=tokyonight" 
   />
-</p>
+
+</div>
+
 ## 🔥 Atividade
 
 <p align="center">
