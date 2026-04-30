@@ -142,7 +142,7 @@
 ## 📫 Contato
 
 <p align="center">
-  <a href="guilhermedamasio09">
+  <a href="[guilhermedamasio09](https://www.linkedin.com/in/guilhermedamasio09/)">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:guilhermedamasiomendes@gmail.com">
