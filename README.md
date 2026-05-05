@@ -113,34 +113,13 @@
 ---
 ## 📊 Estatísticas
 
-<div align="center">
-
-  <img 
-    height="170" 
-    src="https://github-readme-stats.vercel.app/api?username=guilhermedamasio&show_icons=true&theme=tokyonight&locale=pt-br" 
-  />
-
-  <img 
-    height="170" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermedamasio&theme=tokyonight&layout=compact" 
-  />
-
-</div>
-
-<div align="center">
-
-  <img 
-    height="170"
-    src="https://github-readme-streak-stats.herokuapp.com?user=guilhermedamasio&theme=tokyonight" 
-  />
-
-</div>
+![](https://github-readme-stats.shion.dev/api?username=guilhermedamasio&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=guilhermedamasio&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=guilhermedamasio&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ## 🔥 Atividade
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=guilhermedamasio&theme=tokyonight&no-frame=true&row=1&column=6"/>
-</p>
+![](https://github-profile-trophy.vercel.app/?username=guilhermedamasio&theme=radical&no-frame=true&no-bg=false&margin-w=4)
 
 ---
 
