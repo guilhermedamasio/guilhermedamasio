@@ -147,10 +147,5 @@
 ## 📫 Contato
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/guilhermedamasio09/">
-    <img src="https://img.shields.io/badge/LinkedIn-Guilherme%20Damasio-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:guilhermedamasiomendes@gmail.com?subject=Contato%20profissional&body=Olá%20Guilherme,%20vi%20seu%20GitHub%20e%20gostaria%20de%20falar%20com%20você.">
-    <img src="https://img.shields.io/badge/Email-Contato-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/guilhermedamasio09) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:guilhermedamasiomendes@gmail.com) 
 </p>
