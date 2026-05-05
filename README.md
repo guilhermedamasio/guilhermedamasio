@@ -1,154 +1,98 @@
-<!-- TYPING EFFECT -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?color=58A6FF&size=28&center=true&vCenter=true&width=800&lines=Olá%2C+eu+sou+Guilherme+Damasio;Desenvolvedor+Back-end+em+formação;Focado+em+C%23+e+.NET;Construindo+projetos+reais+🚀" />
-</p>
-<p align="left">
-    <a href="https://github.com/guilhermedamasio?tab=repositories&sort=stargazers">
-        <img 
-            alt="Total de estrelas" 
-            title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/guilhermedamasio?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
-        />
-    </a>
-    <a href="https://github.com/guilhermedamasio?tab=followers">
-        <img 
-            alt="Seguidores" 
-            title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/guilhermedamasio?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
-        />
-    </a>
-</p>
+# 👋 Olá, eu sou o Guilherme Damasio
+
+Desenvolvedor focado em **backend com .NET (C#)**, construção de APIs e automações, com interesse crescente em sistemas escaláveis, integração de serviços e arquitetura de software.
+
+Atualmente venho evoluindo minhas habilidades através de projetos práticos, estudos contínuos e desenvolvimento de soluções próprias — tanto para aprendizado quanto para portfólio.
 
 ---
-
-# 👨‍💻 Guilherme Damasio
-
-<p align="center">
-  💻 Estudante de ADS na PUCRS • 🚀 Focado em Back-end • 🔥 Em evolução constante
-</p>
-
----
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=guilhermedamasio)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 🚀 Sobre mim
 
-- 🎓 Cursando **Análise e Desenvolvimento de Sistemas (PUCRS)**
-- 💻 Focado em desenvolvimento **Back-end com C# e .NET**
-- 🔧 Construindo APIs REST e aplicações reais
-- 📚 Evoluindo em banco de dados e arquitetura
+- 💻 Foco principal: **C# / .NET / APIs REST**
+- 🧠 Interesse em arquitetura de software e boas práticas (SOLID, Clean Code)
+- 🗄️ Experiência com **SQL e modelagem de dados**
+- ⚙️ Automação e scripts (incluindo integrações com APIs e sistemas externos)
+- 📦 Desenvolvimento de aplicações desktop e web
+- 🔐 Interesse em segurança, autenticação e sistemas distribuídos
+- 📈 Construção de projetos reais para portfólio e estudo
 
 ---
 
+## 🧰 Stack principal
 
-## 🤖 Linguagens e Tecnologias
+**Backend**
+- C# (.NET / ASP.NET Core)
+- REST APIs
+- Entity Framework Core
+- SQL Server / SQLite
 
-<img 
-    align="left" 
-    alt="C#" 
-    title="C#" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" 
-/>
-<img 
-    align="left" 
-    alt=".NET" 
-    title=".NET" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="SQL Server" 
-    title="SQL Server" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" 
-/>
-<img 
-    align="left" 
-    alt="Git" 
-    title="Git" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Docker" 
-    title="Docker" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" 
-/>
+**Ferramentas & DevOps**
+- Git & GitHub
+- Docker (em aprendizado/aplicação prática)
+- Vercel / Deploys simples
+- Postman / Insomnia
 
-<br/>
-<br/>
+**Outros conhecimentos**
+- Estruturação de projetos
+- Enum-driven design
+- Logging (Serilog – em estudo)
+- Validações (FluentValidation – em estudo)
 
 ---
 
-## 📌 Projetos
+## 📌 Projetos em destaque
 
-- 🔹 **Sistema de Controle de Gastos**  
-  Aplicação em C# com categorização via enum, controle de limite de cartão e futura API.
-
-- 🔹 **ToDo App**  
-  Aplicação para gerenciamento de tarefas com foco em evolução para banco de dados.
-
-- 🔹 **Verificador de CPF**  
-  Aplicação em C# com categorização via enum, em BETA.
+### 💰 Sistema de Controle Financeiro (em desenvolvimento)
+Sistema completo de controle financeiro com:
+- Categorias via enum
+- Limite de cartão de crédito
+- Estrutura preparada para API (CRUD completo)
+- Evolução para banco de dados e arquitetura escalável
 
 ---
 
-## 📈 Em aprendizado
-
-- ASP.NET Core (APIs REST)
-- Entity Framework
-- Arquitetura de software
-- Boas práticas (Clean Code)
+### 📝 ToDo App (.exe / Desktop)
+Aplicação de tarefas com foco em:
+- Simplicidade e performance
+- Persistência de dados local
+- Distribuição leve para uso restrito
+- Projeto voltado também para portfólio
 
 ---
-## 📊 Estatísticas
 
-<div align="center">
+### 🤖 Automação com Axie Infinity (SLP Bot)
+Projeto de automação com foco em:
+- Integração com plataforma Axie Origins
+- Uso de C# para automação segura
+- Integração com Ronin Wallet
+- Foco em segurança e eficiência de execução
 
-  <img 
-    height="170" 
-    src="https://github-readme-stats.vercel.app/api?username=guilhermedamasio&show_icons=true&theme=tokyonight&locale=pt-br" 
-  />
+---
 
-  <img 
-    height="170" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermedamasio&theme=tokyonight&layout=compact" 
-  />
+## 🧠 Forma de pensar
 
-</div>
+- Código limpo antes de código rápido
+- Reutilização e escalabilidade como prioridade
+- Construção de soluções reais, não apenas exemplos acadêmicos
+- Aprendizado constante baseado em projetos práticos
 
-<div align="center">
+---
 
-  <img 
-    height="170"
-    src="https://github-readme-streak-stats.herokuapp.com?user=guilhermedamasio&theme=tokyonight" 
-  />
+## 📊 Objetivo atual
 
-</div>
-
-## 🔥 Atividade
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=guilhermedamasio&theme=tokyonight&no-frame=true&row=1&column=6"/>
-</p>
+Estou focado em evoluir como desenvolvedor backend, aprofundando conhecimentos em:
+- Arquitetura de sistemas
+- APIs escaláveis
+- Integrações entre serviços
+- Boas práticas de desenvolvimento profissional
 
 ---
 
 ## 📫 Contato
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/guilhermedamasio09/">
-    <img src="https://img.shields.io/badge/LinkedIn-Guilherme%20Damasio-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:guilhermedamasiomendes@gmail.com?subject=Contato%20profissional&body=Olá%20Guilherme,%20vi%20seu%20GitHub%20e%20gostaria%20de%20falar%20com%20você.">
-    <img src="https://img.shields.io/badge/Email-Contato-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-</p>
+- GitHub: [github.com/rezendesjoao](https://github.com/rezendesjoao)
+- (adicione aqui LinkedIn se quiser)
+
+---
+
+> “Construir sistemas simples que resolvem problemas reais é mais valioso do que sistemas complexos que não resolvem nada.”
