@@ -1,129 +1,107 @@
-<!-- TYPING EFFECT -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?color=58A6FF&size=28&center=true&vCenter=true&width=800&lines=Olá%2C+eu+sou+Guilherme+Damasio;Desenvolvedor+Back-end+em+formação;Focado+em+C%23+e+.NET;Construindo+projetos+reais+🚀" />
-</p>
-<p align="left">
-    <a href="https://github.com/guilhermedamasio?tab=repositories&sort=stargazers">
-        <img 
-            alt="Total de estrelas" 
-            title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/guilhermedamasio?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
-        />
-    </a>
-    <a href="https://github.com/guilhermedamasio?tab=followers">
-        <img 
-            alt="Seguidores" 
-            title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/guilhermedamasio?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
-        />
-    </a>
+<p align="right">
+  <b>🇺🇸 English</b> | <a href="./README.pt-BR.md">🇧🇷 Português</a> | <a href="./README.es.md">🇪🇸 Español</a>
 </p>
 
----
-
-# 👨‍💻 Guilherme Damasio
+<h1 align="center">Hey 👋, I'm Guilherme Damasio</h1>
+<p align="center">Back-end developer in training, focused on C# & .NET</p>
 
 <p align="center">
-  💻 Estudante de ADS na PUCRS • 🚀 Focado em Back-end • 🔥 Em evolução constante
+  <img src="https://komarev.com/ghpvc/?username=guilhermedamasio&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/guilhermedamasio?label=Followers&style=flat" alt="Followers" />
 </p>
 
----
+<table align="center" width="100%">
+  <tr>
+    <td width="50%" align="center">
+      <img
+        src="https://github-stats-extended.vercel.app/api?username=guilhermedamasio&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true&rank_icon=github"
+        alt="GitHub Stats"
+        width="100%"
+      />
+    </td>
+    <td width="50%" align="center">
+      <img
+        src="https://github-readme-streak-stats-eight.vercel.app/?user=guilhermedamasio&theme=tokyonight&hide_border=true"
+        alt="GitHub Streak"
+        width="100%"
+      />
+    </td>
+  </tr>
+</table>
 
-## 🚀 Sobre mim
+<h2 align="center">🛠️ Tech Stack</h2>
+<p align="center">
+  <img
+    src="https://skillicons.dev/icons?i=cs,dotnet,mysql,git,github,docker,vscode,windows&perline=18&size=45"
+    alt="Tech Stack"
+  />
+</p>
 
-- 💻 Foco principal: **C# / .NET / APIs REST**
-- 🧠 Interesse em arquitetura de software e boas práticas (SOLID, Clean Code)
-- 🗄️ Experiência com **SQL e modelagem de dados**
-- ⚙️ Automação e scripts (incluindo integrações com APIs e sistemas externos)
-- 📦 Desenvolvimento de aplicações desktop e web
-- 🔐 Interesse em segurança, autenticação e sistemas distribuídos
-- 📈 Construção de projetos reais para portfólio e estudo
+<table align="center" width="100%">
+  <tr>
+    <td width="75%" align="center">
+      <h3>📈 Contribution Activity</h3>
+      <img
+        src="https://github-readme-activity-graph.vercel.app/graph?username=guilhermedamasio&theme=tokyo-night&hide_border=true&area=true&height=180"
+        alt="Contribution Activity"
+        width="100%"
+      />
+    </td>
+    <td width="25%" align="center">
+      <h3>📌 GitHub Overview</h3>
+      <img
+        src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=guilhermedamasio&theme=tokyonight"
+        alt="GitHub Overview"
+        width="100%"
+      />
+    </td>
+  </tr>
+</table>
 
----
+<table align="center" width="100%">
+  <tr>
+    <td width="50%" align="center">
+      <img
+        src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=guilhermedamasio&theme=tokyonight"
+        alt="Languages by Repository"
+        width="100%"
+      />
+    </td>
+    <td width="50%" align="center">
+      <img
+        src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=guilhermedamasio&theme=tokyonight"
+        alt="Languages by Commit"
+        width="100%"
+      />
+    </td>
+  </tr>
+</table>
 
+<h2 align="center">📌 Featured Projects</h2>
+<table align="center" width="100%">
+  <tr>
+    <td width="33%" align="center" valign="top">
+      <b>Expense Tracker</b><br/>
+      <sub>C# app with enum-based expense categorization and credit card limit control. Evolving into a REST API.</sub>
+    </td>
+    <td width="33%" align="center" valign="top">
+      <b>ToDo App</b><br/>
+      <sub>Task manager built in C#, with plans for database persistence.</sub>
+    </td>
+    <td width="33%" align="center" valign="top">
+      <b>CPF Validator</b><br/>
+      <sub>Brazilian tax ID (CPF) validator in C# with enum-based categorization (beta).</sub>
+    </td>
+  </tr>
+</table>
+<p align="center"><a href="https://github.com/guilhermedamasio?tab=repositories">See all repositories →</a></p>
 
-## 🤖 Linguagens e Tecnologias
-
-<img 
-    align="left" 
-    alt="C#" 
-    title="C#" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" 
-/>
-<img 
-    align="left" 
-    alt=".NET" 
-    title=".NET" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="SQL Server" 
-    title="SQL Server" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" 
-/>
-<img 
-    align="left" 
-    alt="Git" 
-    title="Git" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Docker" 
-    title="Docker" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" 
-/>
-
-<br/>
-<br/>
-
----
-
-## 📌 Projetos
-
-- 🔹 **Sistema de Controle de Gastos**  
-  Aplicação em C# com categorização via enum, controle de limite de cartão e futura API.
-
-- 🔹 **ToDo App**  
-  Aplicação para gerenciamento de tarefas com foco em evolução para banco de dados.
-
-- 🔹 **Verificador de CPF**  
-  Aplicação em C# com categorização via enum, em BETA.
-
----
-
-## 📈 Em aprendizado
-
-- ASP.NET Core (APIs REST)
-- Entity Framework
-- Arquitetura de software
-- Boas práticas (Clean Code)
-
----
-## 📊 Estatísticas
-
-![](https://github-readme-stats.shion.dev/api?username=guilhermedamasio&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=guilhermedamasio&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=guilhermedamasio&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-
-## 🔥 Atividade
-
-![](https://github-profile-trophy.vercel.app/?username=guilhermedamasio&theme=radical&no-frame=true&no-bg=false&margin-w=4)
-
----
-
-## 📫 Contato
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/guilhermedamasio09) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:guilhermedamasiomendes@gmail.com) 
+<h2 align="center">📫 Let's connect</h2>
+<p align="center">
+  <a href="https://linkedin.com/in/guilhermedamasio09">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:guilhermedamasiomendes@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
