@@ -32,7 +32,7 @@
 <h2 align="center">🛠️ Tecnologías</h2>
 <p align="center">
   <img
-    src="https://skillicons.dev/icons?i=cs,dotnet,mysql,git,github,docker,vscode,windows&perline=18&size=45"
+    src="https://skillicons.dev/icons?i=cs,dotnet,py,js,html,css,mysql,azure,git,github,docker,visualstudio,vscode,linux&perline=18&size=45"
     alt="Tech Stack"
   />
 </p>
